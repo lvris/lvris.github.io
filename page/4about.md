@@ -9,16 +9,16 @@ type: page
 * content
 {:toc}
 
+## 关于博客
+
+这是我学习OI期间搭起来的博客，因为机房里大家都在搞就跟风搞了一个，也是因为单纯的“看起来很酷”吧。
+
+主要分享一些凌乱的记录、笔记，姑且算个技术博客吧233。
+
 ## 关于我
 
 * 2018-2020 临汾一中/OIer
 * 2020-202x 西电/MSCweb组/本科生
-
-
-## 联系我
-
-* QQ:2443064471
-* WX:MiaoSMH
 
 ## 友情链接
 
@@ -28,7 +28,6 @@ type: page
 * [舍友-TURi571](https://equiinoiw.github.io)
 * [校友-0xis](https://lingchih.coding.me/csdn.html)
 * [校友-luv_letters](http://www.cnblogs.com/luv-letters)
-* [校友-Society_Niu](https://www.societyniu.xyz)
 
 ## Comments
 
