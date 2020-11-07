@@ -25,7 +25,7 @@ type: page
 * [友人-insilent](https://insilent.github.io)
 * [学长-poorpool](https://yxchen.net)
 * [友人-Capella](https://www.cnblogs.com/Capella)
-* [舍友-TURi571](https://equiinoiw.github.io)
+* [舍友-XXX](https://equiinoiw.github.io)
 * [校友-0xis](http://lfyzdst.gitee.io/)
 * [校友-dancekey](https://dancekey.github.io/)
 
