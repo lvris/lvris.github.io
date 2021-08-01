@@ -20,6 +20,14 @@
       title: 'NULL',
       core_tech: 'A B',
       description: '無いです'
+    },
+    {
+      demo_link: 'https://lvris.com/map',
+      img_link: '',
+      code_link: 'https://github.com/lvris/map',
+      title: '蹭饭地图',
+      core_tech: 'highcharts',
+      description: '蹭饭地图demo'
     }
   ];
 
